@@ -6,7 +6,7 @@ type: slides
 
 Notes: In the first chapter, I will give you the necessary intuitions to help you become familiar with the basics of linear regression.
 
-- __[Linear regression](https://en.wikipedia.org/wiki/Linear_regression)__ it is used to approximate the dependency relationship between a dependent variable Y, the independent variables Xi and a random term ε. 
+- __[Linear regression](https://en.wikipedia.org/wiki/Linear_regression)__ it is used to approximate the dependency relationship between a dependent variable Y, the independent variables X<sub>i</sub> and a random term ε. 
 
 This model can be expressed as:
 
@@ -53,7 +53,7 @@ Notes: In this plot we can see ...
     width="50%">
 </div>
 
-Notes: The following objetive it fit a linear model over the data that generate before.
+Notes: The following objective it fit a linear model over the data that generate before.
 
 ---
 
