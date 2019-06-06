@@ -1,7 +1,7 @@
 ---
 title: 'Chapter 1 : Introduction to Linear Regression'
 description:
-  '' 
+  'In this initial chapter you will archive the basic about Linear Regression.' 
 prev: null
 next: /chapter2/
 type: chapter
@@ -12,7 +12,6 @@ id: 1
     <slides source="chapter1_01_introduction"></slides>
 </exercise>
 
- 
 <exercise id="2" title="Getting Started">
     The goal of the following exercises are to familiarize you with the very basics 
     of linear regression concepts. More practival skills will be in the lab sessions. 
