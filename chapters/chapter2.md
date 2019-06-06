@@ -1,44 +1,41 @@
 ---
-title: 'Chapter 2: More stuff'
-description:
-  '???'
-prev: /chapter1
-next: null
+title: 'Chapter 2: Introduction to Nearest neighbor'
+description: '???'
+prev: /chapter1/
+next: /chapter3/
 type: chapter
 id: 2
 ---
 
-<exercise id="21" title="??">
-
-<codeblock id="02_01">---Hints---</codeblock>
-
+<exercise id="7" title="Nearest Neighbor Basics" type="slides">
+    <slides source="chapter2_07_introduction"></slides>
 </exercise>
 
-<exercise id="22" title="??">
+<exercise id="8" title="??">
 
 <codeblock id="02_02">---Hints---</codeblock>
 
 </exercise>
 
-<exercise id="23" title="??">
+<exercise id="9" title="??">
 
 <codeblock id="02_03">---Hints---</codeblock>
 
 </exercise>
 
-<exercise id="24" title="??">
+<exercise id="10" title="??">
 
 <codeblock id="02_04">---Hints---</codeblock>
 
 </exercise>
 
-<exercise id="25" title="??">
+<exercise id="11" title="??">
 
 <codeblock id="02_05">---Hints---</codeblock>
 
 </exercise>
 
-<exercise id="26" title="??">
+<exercise id="12" title="??">
 
 <codeblock id="02_06">---Hints---</codeblock>
 
